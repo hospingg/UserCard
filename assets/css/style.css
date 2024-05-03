@@ -25,6 +25,7 @@ a{
     align-items: center;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     height: auto;
+    max-width: 600px;
 }
 
 .main-info{
@@ -71,6 +72,7 @@ img{
     padding: 40px;
     margin: 0;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 3vw;
 }
